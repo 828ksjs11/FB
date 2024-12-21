@@ -4,4 +4,4 @@ git clone https://github.com/828ksjs11/FB.git
 
 cd FB
 
-python crack.py
+python crackfb.py
